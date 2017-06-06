@@ -1,5 +1,5 @@
 # mazda_getInfo
-A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made
+A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU)
 
 # Credits
 - To Trez of http://mazdatweaks.com/ 
@@ -10,6 +10,9 @@ A PoC that the USB port is an attack surface for a Mazda car's infotainment syst
 - Copy this repo to the root of your USB flash drive
 - Turn on your car (accessory mode) then insert the flash drive
 - Wait for like seconds and check your infotainment system
+
+# TODO
+- Planning to compile some plug and play usb to RCE for other cars soon
 
 
 
