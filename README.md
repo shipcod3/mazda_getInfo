@@ -1,10 +1,9 @@
 # mazda_getInfo
 A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made
-Add topics
-
 
 # Credits
 - To Trez of http://mazdatweaks.com/ 
+- To @jhaddix for giving me the Car Hackers Handbook :)
 
 # Instructions
 - Prepare a USB flash drive that is FAT 32
