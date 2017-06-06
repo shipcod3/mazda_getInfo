@@ -1,6 +1,7 @@
 #!/bin/sh
 # @shipcod3
-# credits goes to http://mazdatweaks.com/ for the wonderful Mazda hacks :)
+# credits goes to http://mazdatweaks.com/ for the wonderful Mazda hacks since this is a known technique for CMU :)
+# planning to compile some plug and play usb to RCE soon for other cars so stay put
 
 /jci/tools/jci-dialog --title="PoC" --text="A PoC that the USB port is an attack surface" --ok-label='OK' --no-cancel
 /jci/tools/jci-dialog --title="gr33tz" --text="To ROOTCON family" --ok-label='OK' --no-cancel
