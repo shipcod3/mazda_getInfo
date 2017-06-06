@@ -4,6 +4,7 @@ A PoC that the USB port is an attack surface for a Mazda car's infotainment syst
 # Credits
 - To Trez of http://mazdatweaks.com/ 
 - To @jhaddix for giving me the Car Hackers Handbook :)
+- http://mazda3revolution.com/forums/2014-2017-mazda-3-skyactiv-audio-electronics/57714-infotainment-project.html
 
 # Instructions
 - Prepare a USB flash drive that is FAT 32
