@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 # @shipcod3
 # credits goes to http://mazdatweaks.com/ for the wonderful Mazda hacks :)
 
