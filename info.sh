@@ -2,7 +2,7 @@
 # @shipcod3
 # credits goes to http://mazdatweaks.com/ for the wonderful Mazda hacks :)
 
-/jci/tools/jci-dialog --title="PoC" --text="A PoC that USB is an attack surface" --ok-label='OK' --no-cancel
+/jci/tools/jci-dialog --title="PoC" --text="A PoC that the USB port is an attack surface" --ok-label='OK' --no-cancel
 /jci/tools/jci-dialog --title="gr33tz" --text="To ROOTCON family" --ok-label='OK' --no-cancel
 
 get_uname()
