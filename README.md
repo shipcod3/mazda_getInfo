@@ -15,7 +15,7 @@ A PoC that the USB port is an attack surface for a Mazda car's infotainment syst
 - Wait for like seconds and check your infotainment system
 
 # TODO
-- Planning to compile some plug and play usb to RCE for other cars soon
+- Planning to compile some plug and play usb to code execution for other cars soon
 
 
 
